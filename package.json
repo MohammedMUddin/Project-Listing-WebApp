@@ -1,0 +1,22 @@
+{
+  "name": "project-listing-webapp",
+  "version": "1.0.0",
+  "description": "This Project will contain the code for the Project-Listing-Webapp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedMUddin/Project-Listing-WebApp.git"
+  },
+  "author": "Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedMUddin/Project-Listing-WebApp/issues"
+  },
+  "homepage": "https://github.com/MohammedMUddin/Project-Listing-WebApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
